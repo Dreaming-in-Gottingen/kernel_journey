@@ -1,0 +1,3 @@
+config API_TEST
+	tristate "kernel api test"
+	default m

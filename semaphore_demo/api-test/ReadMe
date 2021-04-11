@@ -1,0 +1,6 @@
+dts file
+[kernel/arch/arm/boot/dts/board-xxx.dts]
+should add below:
+xcom-test {
+    compatible = "xcom,mytest";
+};
